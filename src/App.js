@@ -1,6 +1,4 @@
 import React,{useState} from 'react'
-import Restaurant from './Component/Restaurant'
-import Useffect from './Component/Useffect'
 import './Component/todo/style1.css'
 import Todo from './Component/todo/Todo'
 
